@@ -9,8 +9,8 @@ Real Time File logger or rtfilelogger for short, is a simple desktop application
 **How to run:**
 
  - Make sure you have Python 3.
- - Clone this repository.
- - Run `python rtfilelogger.py`, assuming that the `python` commands invokes python3 in your terminal.
+ - Clone this repository: `git clone https://github.com/minaandrawos/RealTimeFileLogger.git`.
+ - Run `python rtfilelogger.py`, assuming that the `python` command invokes python3 in your terminal, otherwise the command is likely `python3`
  - In Linux, you might need to run `sudo apt-get install python3-tk`.
 
 That's it. The project does not use any third party packages. It relies on Tkinter for the UI, which in a lot of cases comes pre-loaded with Python. 
