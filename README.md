@@ -1,7 +1,7 @@
 # RealTimeFileLogger
 
 
-Real Time File logger or rtfilelogger for short, is a simple desktop application written in Python. The tool allows you to read log files in real time. It also allows you to pause or resume reading log files.
+Real Time File logger or rtfilelogger for short, is a simple desktop application written in Python. The tool allows you to read log files in real time. It also allows you to pause or resume reading log files. The tool is cross-platform, and doesn't need any third party packages to run.
 
 ![Simple file logger](https://github.com/minaandrawos/RealTimeFileLogger/blob/master/screenshot.png)
 
