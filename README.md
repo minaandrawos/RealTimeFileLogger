@@ -22,4 +22,4 @@ That's it. The project does not use any third party packages. It relies on Tkint
 The tool consists of only two buttons:
 
  1. *Add New File*: Opens a new file for monitoring. The file will open in a new tab.
- 2. *Play/Pause*:  Pauses or resumes the read operation for the currently selected file.
+ 2. *Play/Pause*:  Pauses or resumes the read operation of the currently selected file.
